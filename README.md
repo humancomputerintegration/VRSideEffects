@@ -1,6 +1,6 @@
 # VR side-effects
 
-This repository contains the source code used in the research publication "VR Side-Effects" from the [Human-Computer Integration Lab](https://lab.plopes.org/) at the University of Chicago.
+This repository contains the source code used in the research publication "VR Side-Effects: Memory & Proprioceptive Discrepancies After Leaving Virtual Reality" from the [Human-Computer Integration Lab](https://lab.plopes.org/) at the University of Chicago.
 
 The Unity code for each study is respectively placed in the "1. movement side-effect (study#1)" and "2. memory side-effect (study#2)"
 
