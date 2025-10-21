@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Place mismatch/Old Scene.unity
+    guid: f74f55606a49b184ea7b32dc0ec6b936
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8f142bc4bb54e1a42af3a7f010b95318, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 3544835728cfdb4409eb91c2d285dcd9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fdfe9a33ee334b24d82a30110bab8225, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 64ad6dfda3b4c74449ab52db33872deb, type: 2}

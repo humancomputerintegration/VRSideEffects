@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.htc.viveport.api.android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/com.htc.viveport.api.android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
